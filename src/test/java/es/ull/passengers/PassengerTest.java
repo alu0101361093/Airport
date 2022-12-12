@@ -8,7 +8,7 @@ import java.util.Locale;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-@DisplayName("Given there is a passenger")
+@DisplayName("Given there are passengers")
 public class PassengerTest {
     private Passenger passenger1;
     private Passenger passenger2;
