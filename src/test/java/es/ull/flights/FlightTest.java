@@ -5,7 +5,7 @@ import org.junit.jupiter.api.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-@DisplayName("Given there is a flight")
+@DisplayName("Given there are flights")
 public class FlightTest {
 
     private Flight flight1;
